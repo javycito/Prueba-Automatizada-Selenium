@@ -5,7 +5,7 @@ Este proyecto consiste en una prueba automatizada usando Selenium y la librería
 # Video Demostrativo
 Puedes ver la demostración de la ejecución de la prueba automatizada en el siguiente enlace:
 
-[Video Demostrativo]()
+[Video Demostrativo](https://youtu.be/8lRbi_5LOxo)
 
 ## Historias de Usuario
 
